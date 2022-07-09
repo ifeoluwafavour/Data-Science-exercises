@@ -8,7 +8,7 @@ This repository contains data analytics exercises I will push to the public whil
 
 ## Tools
 - MySQL
-- Python's data analysis libraries (Numpy, Pandas and Matplotlib) 
+- Jupyter Lab
 
 ## Learning resources
 - [FreeCodeCamp's SQL course on Youtube](https://www.youtube.com/watch?v=HXV3zeQKqGY)
